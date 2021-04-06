@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Imanuddin Ardian Hermawan, you can call me Ardian, I am an associate's degree student at Electronic Engineering Polytechnic Institute of Surabaya, majoring in Informatics Engineering.
+
 <!--
 **yoshivirgiawan/yoshivirgiawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
