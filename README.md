@@ -28,5 +28,11 @@ Here are some ideas to get you started:
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=yoshivirgiawan&show_icons=true&hide_border=true" />
 </details>
 
+<details>
+  <summary>:zap: Most Used Languages</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoshivirgiawan&layout=compact&show_icons=true&hide_border=true" />
+</details>
+
 [instagram]: https://www.instagram.com/yoshivirgiawan
 [linkedin]: https://www.linkedin.com/in/achmed-yoshi-virgiawan-1a8a45b5
